@@ -4,7 +4,7 @@ mini UV-Vis UI
 
 현재 electron이 아닌 python 자체만으로 구동하는 방향으로 개발중입니다.
 
-## 사용법
+## 사용법 (2025.07. 기준 파일 구조가 꼬여 작동되지 않습니다)
 1. 주어진 3D 모델링을 3D 프린터로 출력합니다.<br/><br/>
     ![image](https://github.com/user-attachments/assets/8d6910bf-f086-4bc7-8204-b628794989e3)<br/>
 
